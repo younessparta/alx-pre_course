@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "ALX"
+clear
+cd alx-pre_course
+[C
+^C

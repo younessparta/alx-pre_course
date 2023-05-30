@@ -1,4 +1,1 @@
-#!/bin/bash
-echo "school"
-/bin/bassh
-/bin/bash
+echo school
